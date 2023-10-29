@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1031203560914",
+    "firebase_url": "https://insta-ui-983b2-default-rtdb.firebaseio.com",
+    "project_id": "insta-ui-983b2",
+    "storage_bucket": "insta-ui-983b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031203560914:android:e24632ad3f3b3493a6fc0b",
+        "android_client_info": {
+          "package_name": "com.example.belissimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1LpW28L61GDZS54O848bZ9XHv3qVbZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031203560914:android:1b5242f01d4a1534a6fc0b",
+        "android_client_info": {
+          "package_name": "com.example.frendship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1LpW28L61GDZS54O848bZ9XHv3qVbZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031203560914:android:0e4bc09756eb471ca6fc0b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1LpW28L61GDZS54O848bZ9XHv3qVbZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031203560914-h27g6sk2jb81kt2mibslteocgjh4tdhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
